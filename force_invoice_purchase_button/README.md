@@ -1,7 +1,17 @@
 # Compra - Forzar Estado Facturado
 
-Este módulo agrega un botón que permite cambiar manualmente el estado de facturación de una orden de compra a “facturado”, incluso si no tiene factura.
-No modifica la contabilidad, solo cambia el estado de la orden de compra.
+## Características
+- Botón disponible directamente en las órdenes de compra.
+- Funciona aunque no existan facturas vinculadas.
+- No altera la contabilidad, solo cambia el estado visual.
+
+## Instalación
+1. Subir el módulo a tu instancia de Odoo.
+2. Activar modo desarrollador.
+3. Instalar desde Aplicaciones.
+
+## Advertencia
+Este módulo no crea facturas ni afecta el módulo de contabilidad. Solo cambia el estado a nivel visual.
 
 **Versión:** 18.0  
 **Autor:** WS Consultores SpA
