@@ -21,5 +21,5 @@
     "installable": True,
     "application": False,
     "auto_install": False,
-    "images": ["thumbnail.png", "icon.png"],
+    "images": ["thumbnail.png"],
 }
