@@ -1,7 +1,7 @@
 {
     "name": "force_invoice_purchase_button",
     "summary": "Agrega acción masiva para forzar estado facturado sin bucles prohibidos.",
-    "description":'<p>Este módulo agrega un botón para cambiar manualmente el estado de facturación de una orden de compra a <strong>Facturado</strong>, incluso si no tiene factura.</p><p>No modifica la contabilidad, solo cambia el estado visual. Compatible con Odoo Online y Odoo.sh.</p>',
+    "description":"force invoice purchase order, purchase order invoicing, odoo18 force invoice, manual invoice status, set purchase order to invoiced, odoo purchase customization, invoice status override, odoo purchase order status fix, odoo force invoice state, WS Consultores, odoo18, odoo apps, force invoice button, purchase workflow fix",
     "author": "WS Consultores SpA",
     "website": "https://github.com/WSConsultores",
     "license": "LGPL-3",
