@@ -1,6 +1,7 @@
 {
     "name": "force_invoice_purchase_button",
     "summary": "Agrega acción masiva para forzar estado facturado sin bucles prohibidos.",
+    "description": "force invoice purchase order, force invoiced, odoo18, odoo purchase module, odoo invoicing, purchase status override, WS Consultores",
     "author": "WS Consultores SpA",
     "website": "https://github.com/WSConsultores",
     "license": "LGPL-3",
